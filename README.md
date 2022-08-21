@@ -1,10 +1,16 @@
 <h1 align="center">Shalom To You all 👋, I'm 🤖𝓚𝓮𝓭𝓲𝓻 𝓞𝓶𝓮𝓻💻</h1>
 <h3 align="center">📊Data Scientist+[🤖AI 💻Machine-Deep Learning 🩺Biomedical 👨🏽‍💻Software 🏗DevOps 💭Cloud 🔐Cybersecurity 🛫IoT 💰Blockchain 💵Financial] Engineer+[🗓Project 🛒Product 📐Strategy] Manager+☎️Consultant+🐍Python Developer</h3>
 
-<p class="aligncenter">
+<h4 class="aligncenter">
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQExGcyVzRv9gw/profile-displaybackgroundimage-shrink_350_1400/0/1658855023914?e=1666828800&v=beta&t=qxyMgogIsE_6N0s1dLegUGDFsU34dJEojjuUag8uBh4" alt=""/>
+</h4>
+
+<p align="center">
+Specialty:
+"Meraki (May-rah-kee) is a Greek term that refers to working with Love, Soul, Creativity, and Passion. 
+ Putting all of one's heart and soul into what one does!"
 </p>
-     
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedibeki&label=Profile%20views&color=0e75b6&style=flat" alt="kedibeki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kedibeki" alt="kedibeki" /></a> </p>
