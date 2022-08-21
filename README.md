@@ -5,10 +5,10 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQExGcyVzRv9gw/profile-displaybackgroundimage-shrink_350_1400/0/1658855023914?e=1666828800&v=beta&t=qxyMgogIsE_6N0s1dLegUGDFsU34dJEojjuUag8uBh4" alt=""/>
 </hp>
 
-<h4 align="center">
+<h3 align="center">
 "Meraki (May-rah-kee) is a Greek term that refers to working with Love, Soul, Creativity, and Passion. 
  Putting all of one's heart and soul into what one does!"
-</h4>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedibeki&label=Profile%20views&color=0e75b6&style=flat" alt="kedibeki" /> </p>
 
