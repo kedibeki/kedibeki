@@ -1,7 +1,8 @@
 <h1 align="center">Shalom To You all 👋, I'm 🤖𝓚𝓮𝓭𝓲𝓻 𝓞𝓶𝓮𝓻💻</h1>
 <h3 align="center">📊Data Scientist+[🤖AI 💻Machine-Deep Learning 🩺Biomedical 👨🏽‍💻Software 🏗DevOps 💭Cloud 🔐Cybersecurity 🛫IoT 💰Blockchain 💵Financial] Engineer+[🗓Project 🛒Product 📐Strategy] Manager+☎️Consultant+🐍Python Developer</h3>
 
-<a  <img src=”https://www.linkedin.com/in/kediromer/overlay/background-image/” alt=”” height=”400px” width=”600px”>.
+<a href="https://www.linkedin.com/in/kediromer/overlay/background-image/"
+   <img src=”https://www.linkedin.com/in/kediromer/overlay/background-image/” alt=”” height=”400px” width=”600px”>.
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedibeki&label=Profile%20views&color=0e75b6&style=flat" alt="kedibeki" /> </p>
