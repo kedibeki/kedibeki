@@ -2,7 +2,7 @@
 <h3 align="center">📊Data Scientist+[🤖AI 💻Machine-Deep Learning 🩺Biomedical 👨🏽‍💻Software 🏗DevOps 💭Cloud 🔐Cybersecurity 🛫IoT 💰Blockchain 💵Financial] Engineer+[🗓Project 🛒Product 📐Strategy] Manager+☎️Consultant+🐍Python Developer</h3>
 
 <p class="aligncenter">
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQExGcyVzRv9gw/profile-displaybackgroundimage-shrink_350_1400/0/1658855023914?e=1666828800&v=beta&t=qxyMgogIsE_6N0s1dLegUGDFsU34dJEojjuUag8uBh4" alt=""/> width=800px height=200px
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQExGcyVzRv9gw/profile-displaybackgroundimage-shrink_350_1400/0/1658855023914?e=1666828800&v=beta&t=qxyMgogIsE_6N0s1dLegUGDFsU34dJEojjuUag8uBh4" alt=""/>
 </p>
      
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedibeki&label=Profile%20views&color=0e75b6&style=flat" alt="kedibeki" /> </p>
