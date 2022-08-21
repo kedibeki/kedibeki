@@ -1,9 +1,7 @@
 <h1 align="center">Shalom To You all 👋, I'm 🤖𝓚𝓮𝓭𝓲𝓻 𝓞𝓶𝓮𝓻💻</h1>
 <h3 align="center">📊Data Scientist+[🤖AI 💻Machine-Deep Learning 🩺Biomedical 👨🏽‍💻Software 🏗DevOps 💭Cloud 🔐Cybersecurity 🛫IoT 💰Blockchain 💵Financial] Engineer+[🗓Project 🛒Product 📐Strategy] Manager+☎️Consultant+🐍Python Developer</h3>
 
-<p>
-   <img src=”C:\KEDI\MINE\COURSE & CERTIFICATION\PROFESSION IMAGES\Linkedin Article Cover (1)” alt=”” height=”400px” width=”600px”>.
-</p>
+<img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedibeki&label=Profile%20views&color=0e75b6&style=flat" alt="kedibeki" /> </p>
 
