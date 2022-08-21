@@ -2,7 +2,7 @@
 <h3 align="center">📊Data Scientist+[🤖AI 💻Machine-Deep Learning 🩺Biomedical 👨🏽‍💻Software 🏗DevOps 💭Cloud 🔐Cybersecurity 🛫IoT 💰Blockchain 💵Financial] Engineer+[🗓Project 🛒Product 📐Strategy] Manager+☎️Consultant+🐍Python Developer</h3>
 
 <a href="https://www.linkedin.com/in/kediromer/overlay/background-image/"
-   <img src=”https://www.linkedin.com/in/kediromer/overlay/background-image/” alt=”” height=”400px” width=”600px”>.
+   <img src=”C:\KEDI\MINE\COURSE & CERTIFICATION\PROFESSION IMAGES\Linkedin Article Cover (1)” alt=”” height=”400px” width=”600px”>.
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kedibeki&label=Profile%20views&color=0e75b6&style=flat" alt="kedibeki" /> </p>
