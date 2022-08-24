@@ -13,6 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kedibeki" alt="kedibeki" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ![](https://komarev.com/ghpvc/?username=kedibeki&label=PROFILE+VIEWS)
 
 - 🔭 I’m currently working on [Data science, AI and Machine learning projects](https://github.com/kedibeki?tab=repositories)
