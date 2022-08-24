@@ -14,6 +14,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 - 🔭 I’m currently working on [Data science, AI and Machine learning projects](https://github.com/kedibeki?tab=repositories)
 
 - 🌱 I’m currently learning **Advancing My Data science, AI and Machine learning projects Skill**
