@@ -17,7 +17,7 @@
   "My GitHub Portfolio Is All About AI and Its Inevitable Contributions From Smallest to largest sectors and businesses!
                                        AI, Automation and The Future! 
   I Will Upload AI-Powered Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!
-                       FOLLOW ME TO GET MORE UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
+                       FOLLOW ME TO GET UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
                                                  Thank You, Mazaltov!!!"
 </p>
 </h3>
