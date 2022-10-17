@@ -1,4 +1,4 @@
-<h1 align="center">Shalom To You all 👋, I'm 𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
+<h1 align="center">Shalom To You all 👋, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
 <h3 align="center">📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+🩺Biomedical+🐍Python+🛫IoT+💰Blockchain+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h3>
 
 <p align="center">
