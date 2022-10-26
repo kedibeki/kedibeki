@@ -16,7 +16,7 @@
 <p align="left">
 "My GitHub Portfolio Is All About AI in Data Science, Machine-Deep Learning Engineering, Software Engineering and Cyber security with Its Inevitable Contributions From Smallest to largest sectors and businesses! AI, Automation and The Future! I Will Upload AI-Powered Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!
                        
-                FOLLOW ME TO GET My UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
+                FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
                                          Thank You, Mazaltov!!!"
 </p>
 </h3>
@@ -27,7 +27,8 @@
 </p>
 
 <h3>
-Visit My Website: https://kedibeki.nicepage.io
+Visit My Website: 
+https://kedibeki.nicepage.io
 </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kedibeki)](https://github.com/kedibeki/github-profile-trophy)
