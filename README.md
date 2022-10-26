@@ -2,13 +2,13 @@
 <h3 align="center">📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+🩺Biomedical+🐍Python+🛫IoT+💰Blockchain+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h3>
 
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQH5PGeuUURkkA/feedshare-shrink_800/0/1665829226319?e=1668643200&v=beta&t=i_OowGPdKV6BOlp557PHZcjpix2JzoZbxzuLJBNw8Z0" alt=""/>
+<img src="https://media-exp1.licdn.com/dms/image/D4D16AQGTPtgMzHX7Jw/profile-displaybackgroundimage-shrink_350_1400/0/1665827642551?e=1672272000&v=beta&t=AkqfEZ9tsRmwlKVAxXgj098O0fIccg7Ncc4nMelXe3Q" alt=""/>
 </p>
 
-<h3 align="center">
+<h2 align="center">
 "Meraki (May-rah-kee) is a Greek term that refers to working with Love, Soul, Creativity, and Passion. 
  Putting all of one's heart and soul into what one does!"
-</h3>
+</h2>
 
 ![](https://komarev.com/ghpvc/?username=kedibeki&label=PROFILE+VIEWS)
 
@@ -27,11 +27,15 @@
 <a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedir omer" height="30" width="40" /></a>
 </p>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kedibeki)](https://github.com/kedibeki/github-profile-trophy)
 
 <h3>
 <p>
+
+<p align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQHmNnUC-LZJtQ/feedshare-shrink_1280/0/1661425510674?e=1669852800&v=beta&t=R5QNXe5p422NT4O9GzhGWPeeWG6sJxRc5QN2_PVx5gw" alt=""/>
+</p>
+
 My Progress...
 
 - 🔭 I’m currently working on [Data science, AI and Machine learning projects](https://github.com/kedibeki?tab=repositories)
