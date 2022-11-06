@@ -5,10 +5,10 @@
 <img src="https://media-exp1.licdn.com/dms/image/D4D16AQGTPtgMzHX7Jw/profile-displaybackgroundimage-shrink_350_1400/0/1665827642551?e=1672272000&v=beta&t=AkqfEZ9tsRmwlKVAxXgj098O0fIccg7Ncc4nMelXe3Q" alt=""/>
 </p>
 
-<h2 align="center">
+<h3 align="center">
 "𝓜𝓮𝓻𝓪𝓴𝓲 (𝓜𝓪𝔂-𝓻𝓪𝓱-𝓴𝓮𝓮) 𝓲𝓼 𝓪 𝓖𝓻𝓮𝓮𝓴 𝓽𝓮𝓻𝓶 𝓽𝓱𝓪𝓽 𝓻𝓮𝓯𝓮𝓻𝓼 𝓽𝓸 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓛𝓸𝓿𝓮, 𝓢𝓸𝓾𝓵, 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓲𝓽𝔂, 𝓪𝓷𝓭 𝓟𝓪𝓼𝓼𝓲𝓸𝓷. 
  𝓟𝓾𝓽𝓽𝓲𝓷𝓰 𝓪𝓵𝓵 𝓸𝓯 𝓸𝓷𝓮'𝓼 𝓱𝓮𝓪𝓻𝓽 𝓪𝓷𝓭 𝓽𝓱𝓸𝓾𝓰𝓱𝓽𝓼 𝓲𝓷𝓽𝓸 𝔀𝓱𝓪𝓽 𝓸𝓷𝓮 𝓭𝓸𝓮𝓼!"
-</h2>
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=kedibeki&label=PROFILE+VIEWS)
 
@@ -16,8 +16,8 @@
 <p align="left">
 "Thank you for visiting My GitHub Portfolio. I'm so excited because "We (You and Me) are going to build a better Future: Today!" To excel In the technology era: Data Science (AI, ML & DL), Software Engineering, Cloud Computing, IoT, Cyber Security, Blockchain, and Biomedical Engineering are the pillars. So, to master these fields: I have developed and elevated my expertise and skills (technical and professional) by innovating real-world aspiring projects and enrolling in dozens of specialization courses from prestigious universities and high-tech corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and earned professional and specialty certifications. I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker. Also I will post these fields Inevitable Contributions From Smallest to largest sectors and businesses! AI, Automation and The Future! I Will Upload my personal Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!"
                        
-          "FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
-                                   Thank You, Mazaltov!!!"
+            "FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
+                                     Thank You, Mazaltov!!!"
 </p>
 </h3>
  
