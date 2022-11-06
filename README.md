@@ -1,13 +1,13 @@
 <h1 align="center">Shalom To You all 👋, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
-<h2 align="center">📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🩺Biomedical+🐍Python+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h2>
+<h3 align="center">/📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🩺Biomedical+🐍Python+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant/</h3>
 
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/D4D16AQGTPtgMzHX7Jw/profile-displaybackgroundimage-shrink_350_1400/0/1665827642551?e=1672272000&v=beta&t=AkqfEZ9tsRmwlKVAxXgj098O0fIccg7Ncc4nMelXe3Q" alt=""/>
 </p>
 
 <h2 align="center">
-"Meraki (May-rah-kee) is a Greek term that refers to working with Love, Soul, Creativity, and Passion. 
- Putting all of one's heart and thoughts into what one does!"
+"𝓜𝓮𝓻𝓪𝓴𝓲 (𝓜𝓪𝔂-𝓻𝓪𝓱-𝓴𝓮𝓮) 𝓲𝓼 𝓪 𝓖𝓻𝓮𝓮𝓴 𝓽𝓮𝓻𝓶 𝓽𝓱𝓪𝓽 𝓻𝓮𝓯𝓮𝓻𝓼 𝓽𝓸 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓛𝓸𝓿𝓮, 𝓢𝓸𝓾𝓵, 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓲𝓽𝔂, 𝓪𝓷𝓭 𝓟𝓪𝓼𝓼𝓲𝓸𝓷. 
+ 𝓟𝓾𝓽𝓽𝓲𝓷𝓰 𝓪𝓵𝓵 𝓸𝓯 𝓸𝓷𝓮'𝓼 𝓱𝓮𝓪𝓻𝓽 𝓪𝓷𝓭 𝓽𝓱𝓸𝓾𝓰𝓱𝓽𝓼 𝓲𝓷𝓽𝓸 𝔀𝓱𝓪𝓽 𝓸𝓷𝓮 𝓭𝓸𝓮𝓼!"
 </h2>
 
 ![](https://komarev.com/ghpvc/?username=kedibeki&label=PROFILE+VIEWS)
