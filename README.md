@@ -1,5 +1,5 @@
 <h1 align="center">Shalom To You all 👋, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
-<h3 align="center">📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+🩺Biomedical+🐍Python+🛫IoT+💰Blockchain+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h3>
+<h3 align="center">📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🩺Biomedical+🐍Python+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h3>
 
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/D4D16AQGTPtgMzHX7Jw/profile-displaybackgroundimage-shrink_350_1400/0/1665827642551?e=1672272000&v=beta&t=AkqfEZ9tsRmwlKVAxXgj098O0fIccg7Ncc4nMelXe3Q" alt=""/>
@@ -7,14 +7,14 @@
 
 <h2 align="center">
 "Meraki (May-rah-kee) is a Greek term that refers to working with Love, Soul, Creativity, and Passion. 
- Putting all of one's heart and soul into what one does!"
+ Putting all of one's heart and thoughts into what one does!"
 </h2>
 
 ![](https://komarev.com/ghpvc/?username=kedibeki&label=PROFILE+VIEWS)
 
 <h3>
 <p align="left">
-"My GitHub Portfolio Is All About AI in Data Science, Machine-Deep Learning Engineering, Software Engineering and Cyber security with Its Inevitable Contributions From Smallest to largest sectors and businesses! AI, Automation and The Future! I Will Upload AI-Powered Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!"
+"Thank you for visiting My GitHub Portfolio. I'm so excited because "We (You and Me) are going to build a better Future: Today!" To excel In the technology era: Data Science (AI, ML & DL), Software Engineering, Cloud Computing, IoT, Cyber Security, Blockchain, and Biomedical Engineering are the pillars. So, to master these fields: I have developed and elevated my expertise and skills (technical and professional) by innovating real-world aspiring projects and enrolling in dozens of specialization courses from prestigious universities and high-tech corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and earned professional and specialty certifications. I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker. Also I will post these fields Inevitable Contributions From Smallest to largest sectors and businesses! AI, Automation and The Future! I Will Upload my personal Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!"
                        
           "FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
                                    Thank You, Mazaltov!!!"
