@@ -29,9 +29,9 @@
 <h3>
 Visit My Website: 
 
- <p>
 
-  https://kedibeki.nicepage.io
+ [<p align="center">
+<img src="https://www.flaticon.com/free-icon/letter-k_6819140" alt=""/>](https://kedibeki.nicepage.io)
  
  </p>
 
