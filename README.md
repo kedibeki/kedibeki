@@ -29,11 +29,8 @@
 <h3>
 Visit My Website: 
 
-
- [<p align="center">
-<img src="https://www.flaticon.com/free-icon/letter-k_6819140" alt=""/>](https://kedibeki.nicepage.io)
- 
- </p>
+<p align="left">
+<a href="https://kedibeki.nicepage.io" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/letter-k_6819140" alt="kedir omer" height="30" width="40" /></a>
 
 </h3>
 
