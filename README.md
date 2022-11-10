@@ -25,10 +25,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedir omer" height="30" width="40" /></a>
 </p>
-<br>
+
 <h3>
 Visit My Website: 
-
+<br>
 <p align="left">
 <a href="https://kedibeki.nicepage.io" target="blank"><img align="center" src="https://i.pinimg.com/736x/aa/6e/47/aa6e47ecdd272c9bc4f9bbbf3310fef4.jpg" alt="kedir omer" height="30" width="40" /></a>
 
