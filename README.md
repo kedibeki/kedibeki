@@ -1,5 +1,5 @@
 <h1 align="center">Shalom To You all 👋, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
-<h3 align="center">/📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🩺Biomedical+🐍Python+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant/</h3>
+<h3 align="center">📊Data Scientist+[🤖AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🩺Biomedical+🐍Python+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h3>
 
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/D4D16AQGTPtgMzHX7Jw/profile-displaybackgroundimage-shrink_350_1400/0/1665827642551?e=1672272000&v=beta&t=AkqfEZ9tsRmwlKVAxXgj098O0fIccg7Ncc4nMelXe3Q" alt=""/>
