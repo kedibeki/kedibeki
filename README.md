@@ -1,4 +1,4 @@
-<h1 align="center">Shalom To You and Welcome 👋, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
+<h1 align="center">👋Shalom To You and 🙏Welcome, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
 <h3 align="center">📊Data Scientist+[🧠AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🤖Robotics+🩺Biomedical+🐍Python+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h3>
 
 <p align="center">
@@ -14,21 +14,21 @@
 
 <h3>
 <p align="left">
-"Thank you for visiting My GitHub Portfolio. I'm so excited because "We (You and Me) are going to build a better Future: Today!" To Excel in the Technology Era: Data Science (AI, ML & DL), Software Engineering, Cloud Computing, IoT, Cyber Security, Blockchain, and Biomedical Science are the pillars. So, to master these fields: I have developed and elevated my expertise and skills (technical and professional) by innovating real-world aspiring projects and enrolling in dozens of specialization courses from prestigious universities and high-tech corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and earned professional and specialty certifications. I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker. Also I will post these fields Inevitable Contributions From Smallest to largest sectors and businesses! AI, Automation and The Future! I Will Upload my personal Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!"
+"👏Thank you for visiting My GitHub Portfolio. I'm so excited because "We (You 🫶 Me) are going to build a better Future: Today!" To Excel✈️ in the Technology Era: 📊Data Science (🧠AI, 💻ML & 🔍DL), 🧑‍💻Software Engineering, 💭Cloud Computing, 🛫IoT, 🔐Cyber Security, 💰Blockchain, and 🫀Biomedical Science are the Pillars. So, to master these fields: I have developed📈 and elevated💡 my expertise and skills (Technical and Professional) by innovating real-world aspiring projects 🛠 and enrolling in dozens of specialization courses📚 from prestigious universities and high-tech corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and earned professional and specialty certifications💎. I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker. Also I will post these fields Inevitable Contributions From Smallest to largest sectors and businesses! AI, Automation and The Future! I Will Upload my personal Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!" 📝
                        
-            "FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
+            "🔔FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
                                      Thank You, Mazaltov!!!"
 </p>
 </h3>
  
-<h3 align="left">Connect with me on LinkedIn:</h3>
+<h3 align="left">Connect with me on LinkedIn🫴:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedir omer" height="30" width="40" /></a>
 </p>
 
 <h3>
 
-Visit My Website: 
+Visit My Website🌐: 
  
 <p align="left">
 <a href="https://kedibeki.nicepage.io" target="blank"><img align="center" src="https://i.pinimg.com/736x/aa/6e/47/aa6e47ecdd272c9bc4f9bbbf3310fef4.jpg" alt="kedir omer" height="30" width="40" /></a>
