@@ -85,3 +85,325 @@ My Progress...
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kedibeki&show_icons=true&locale=en" alt="kedibeki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kedibeki&" alt="kedibeki" /></p>
+
+
+
+
+
+
+
+</section>
+    <section class="u-clearfix u-grey-90 u-section-7 active" id="sec-10b3">
+      <img src="./Kedir Omer_files/1q(1).png" alt="" class="u-image u-image-default u-image-1" data-image-width="395" data-image-height="396">
+      <img class="u-expanded-width-xs u-image u-image-round u-radius-10 u-image-2 animated bounceIn-played" src="./Kedir Omer_files/LinkedinPost.png" alt="" data-image-width="1200" data-image-height="1200" data-animation-name="bounceIn" data-animation-duration="2000" data-animation-direction="" data-animation-delay="500" data-href="https://www.linkedin.com/in/kediromer/" data-target="_blank" style="will-change: transform, opacity; animation-duration: 2000ms;">
+      <div class="u-carousel u-carousel-duration-1000 u-expanded-width u-gallery u-layout-thumbnails u-lightbox u-product-zoom u-show-text-on-hover u-thumbnails-position-bottom u-gallery-1" data-interval="1500" data-u-ride="carousel" id="carousel-12e4" data-pswp-uid="1">
+        <div class="u-carousel-inner u-gallery-inner" role="listbox">
+          <div class="u-carousel-item u-gallery-item u-carousel-item-1" data-pswp-item-id="0" data-gallery-uid="1">
+            <div class="u-back-slide" data-image-width="500" data-image-height="500" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/KedirNasir.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-1" src="./Kedir Omer_files/KedirNasir.png" style="left: -177.6px; top: -560.149px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-1">
+              <h3 class="u-gallery-heading">Sample Title</h3>
+              <p class="u-gallery-text">Sample Text</p>
+            </div>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-2" data-pswp-item-id="1" data-gallery-uid="1">
+            <div class="u-back-slide" data-image-width="1254" data-image-height="836" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/DS.jpg&quot;);">
+              <img class="u-back-image u-expanded u-back-image-2" src="./Kedir Omer_files/DS.jpg" style="left: -179.2px; top: -28.5378px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-2">
+              <h3 class="u-gallery-heading">Sample Title</h3>
+              <p class="u-gallery-text">Sample Text</p>
+            </div>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-3" data-image-width="1280" data-image-height="720" data-pswp-item-id="2" data-gallery-uid="1">
+            <div class="u-back-slide" data-image-width="500" data-image-height="500" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/Aiengineer.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-3" src="./Kedir Omer_files/Aiengineer.png" style="left: -237px; top: -56.8537px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-3">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-4" data-image-width="1280" data-image-height="720" data-pswp-item-id="3" data-gallery-uid="1">
+            <div class="u-back-slide" data-image-width="1280" data-image-height="720" style="background-image: url(&quot;https://miro.medium.com/max/1400/1*IL-P4ggwbljUA_RqKNqw9Q.jpeg&quot;);">
+              <img class="u-back-image u-expanded u-back-image-4" src="./Kedir Omer_files/1_IL-P4ggwbljUA_RqKNqw9Q.jpeg" style="left: -139.581px; top: -85.4138px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-4">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-5" data-image-width="500" data-image-height="500" data-pswp-item-id="4" data-gallery-uid="1">
+            <div class="u-back-slide" data-image-width="500" data-image-height="500" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/Deeplearningengineer2.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-5" src="./Kedir Omer_files/Deeplearningengineer2.png" style="left: -163px; top: -853.738px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-5">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-6" data-image-width="972" data-image-height="917" data-pswp-item-id="5" data-gallery-uid="1">
+            <div class="u-back-slide" data-image-width="500" data-image-height="500" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/BME.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-6" src="./Kedir Omer_files/BME.png" style="left: -115.108px; top: -425.268px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-6">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-7" data-image-width="500" data-image-height="500" data-pswp-item-id="6" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/softwareengineer.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-7" src="./Kedir Omer_files/softwareengineer.png" style="left: -4.8px; top: -56.8537px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-7">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-8" data-image-width="2048" data-image-height="1152" data-pswp-item-id="7" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/DevOps-Engineer-Salary-2021-2048x1152.jpg&quot;);">
+              <img class="u-back-image u-expanded u-back-image-8" src="./Kedir Omer_files/DevOps-Engineer-Salary-2021-2048x1152.jpg">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-8">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-9" data-image-width="500" data-image-height="500" data-pswp-item-id="8" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/CybersecurityEngineer.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-9" src="./Kedir Omer_files/CybersecurityEngineer.png">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-9">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-10" data-image-width="1500" data-image-height="1500" data-pswp-item-id="9" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/cloud-engineers-illustration.webp&quot;);">
+              <img class="u-back-image u-expanded u-back-image-10" src="./Kedir Omer_files/cloud-engineers-illustration.webp" style="left: -824.789px; top: -267.437px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-10">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-11" data-image-width="500" data-image-height="500" data-pswp-item-id="10" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/BlockchainEngineer.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-11" src="./Kedir Omer_files/BlockchainEngineer.png" style="left: -192.108px; top: -822.981px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-11">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-12" data-image-width="500" data-image-height="500" data-pswp-item-id="11" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/PPSManager.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-12" src="./Kedir Omer_files/PPSManager.png" style="left: -213.4px; top: -66.64px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-12">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-13" data-image-width="500" data-image-height="500" data-pswp-item-id="12" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/FinancialEngineer.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-13" src="./Kedir Omer_files/FinancialEngineer.png">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-13">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-14" data-image-width="972" data-image-height="917" data-pswp-item-id="13" data-gallery-uid="1">
+            <div class="u-back-slide" data-image-width="500" data-image-height="500" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/IoTRoboticsEngineer1.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-14" src="./Kedir Omer_files/IoTRoboticsEngineer1.png" style="left: -125.247px; top: -60.8949px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-14">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-15 u-active" data-image-width="500" data-image-height="500" data-pswp-item-id="14" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/Consultant.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-15" src="./Kedir Omer_files/Consultant.png" style="left: -53.2px; top: -56.8537px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-15">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-16" data-image-width="500" data-image-height="500" data-pswp-item-id="15" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/PythonDeveloper.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-16" src="./Kedir Omer_files/PythonDeveloper.png" style="left: -13.6px; top: -56.8537px;">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-16">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+          <div class="u-carousel-item u-gallery-item u-carousel-item-17" data-image-width="500" data-image-height="500" data-pswp-item-id="16" data-gallery-uid="1">
+            <div class="u-back-slide" style="background-image: url(&quot;https://assets.nicepagecdn.com/e90c777d/2857009/images/Future.png&quot;);">
+              <img class="u-back-image u-expanded u-back-image-17" src="./Kedir Omer_files/Future.png">
+            </div>
+            <div class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-over-slide u-valign-bottom-lg u-valign-bottom-md u-valign-bottom-sm u-valign-bottom-xs u-over-slide-17">
+              <h3 class="u-gallery-heading"></h3>
+              <p class="u-gallery-text"></p>
+            </div>
+            <style data-mode="XL" data-visited="true"></style>
+            <style data-mode="LG" data-visited="true"></style>
+            <style data-mode="MD" data-visited="true"></style>
+            <style data-mode="SM" data-visited="true"></style>
+            <style data-mode="XS" data-visited="true"></style>
+          </div>
+        </div>
+        <a class="u-absolute-vcenter u-carousel-control u-carousel-control-prev u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-carousel-control-1" href="https://kedibeki.nicepage.io/#carousel-12e4" role="button" data-u-slide="prev">
+          <span aria-hidden="true">
+            <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+          </span>
+          <span class="sr-only">
+            <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+          </span>
+        </a>
+        <a class="u-absolute-vcenter u-carousel-control u-carousel-control-next u-grey-70 u-icon-circle u-opacity u-opacity-70 u-spacing-10 u-text-white u-carousel-control-2" href="https://kedibeki.nicepage.io/#carousel-12e4" role="button" data-u-slide="next">
+          <span aria-hidden="true">
+            <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+          </span>
+          <span class="sr-only">
+            <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+          </span>
+        </a>
+        <ol class="u-carousel-thumbnails u-carousel-thumbnails-1">
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="0">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/KedirNasir.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-2" data-u-target="#carousel-12e4" data-u-slide-to="1">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/DS.jpg">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-3" data-u-target="#carousel-12e4" data-u-slide-to="2">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/Aiengineer.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="3">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/1_IL-P4ggwbljUA_RqKNqw9Q.jpeg">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="4">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/Deeplearningengineer2.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="5">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/BME.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="6">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/softwareengineer.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="7">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/DevOps-Engineer-Salary-2021-2048x1152.jpg">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="8">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/CybersecurityEngineer.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="9">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/cloud-engineers-illustration.webp">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="10">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/BlockchainEngineer.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="11">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/PPSManager.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="12">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/FinancialEngineer.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="13">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/IoTRoboticsEngineer1.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1 u-active" data-u-target="#carousel-12e4" data-u-slide-to="14">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/Consultant.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="15">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/PythonDeveloper.png">
+          </li>
+          <li class="u-carousel-thumbnail u-carousel-thumbnail-1" data-u-target="#carousel-12e4" data-u-slide-to="16">
+            <img class="u-carousel-thumbnail-image u-image" src="./Kedir Omer_files/Future.png">
+          </li>
+        </ol>
+      </div>
+    </section>
+
