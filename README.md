@@ -20,12 +20,12 @@ To Excel✈️ in the Technology Era: 📊Data Science (🧠AI, 💻ML & 🔍DL)
  
 Therefore, to master these fields: I have developed📈 and elevated💡 my expertise and skills (Technical and Professional) by innovating real-world aspiring projects 🛠 and enrolling in dozens of specialization courses📚 from prestigious universities and high-tech corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and earned professional and specialty certifications💎. 
  
-I will post these fields Inevitable Contributions From Smallest to largest sectors and businesses! AI, Automation and The Future! I Will Upload my personal Projects, Notes (Study Materials) and Personal Achievements (Certifications) in all sectors, Professions and Businesses!" 📝
+I will post these fields Inevitable Contributions from smallest to largest sectors and businesses! AI, Automation and The Future! I will upload my personal projects, notes (study materials) and personal achievements (Certifications) in all sectors, professions and businesses!" 📝
  
 I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker.
                        
-            "🔔FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE FOR MORE!
-                                     Thank You, Mazaltov!!!"
+            "🔔FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE and WEBSITE FOR MORE!
+                                             THANK YOU, MAZEL TOV!"
 </p>
 </h3>
  
