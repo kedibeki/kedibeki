@@ -24,8 +24,8 @@ I will post these fields Inevitable Contributions from smallest to largest secto
  
 I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker.
                        
-          "🔔FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE and WEBSITE FOR MORE!
-                                           THANK YOU, MAZEL TOV!"
+       "🔔FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE and WEBSITE FOR MORE!
+                                        THANK YOU, MAZEL TOV!"
 </p>
 </h3>
  
