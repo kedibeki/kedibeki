@@ -45,6 +45,12 @@ Visit My Website🌐:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kedibeki&theme=onedark)](https://github.com/kedibeki/github-profile-trophy)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedibeki)](https://github.com/kedibeki/github-readme-stats)
+
+
+![](./profile-3d-contrib/profile-south-season-animate.svg
+
 <h3>
 <p>
 
