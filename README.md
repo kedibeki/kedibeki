@@ -42,7 +42,7 @@ I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker.
 Visit My Website🌐: 
  
 <p align="left">
-<a href="https://kedibeki.nicepage.io" target="blank"><img align="center" src="https://i.pinimg.com/736x/aa/6e/47/aa6e47ecdd272c9bc4f9bbbf3310fef4.jpg" alt="kedir omer" height="30" width="40" /></a>
+<a href="https://kedibeki.my.canva.site" target="blank"><img align="center" src="https://i.pinimg.com/736x/aa/6e/47/aa6e47ecdd272c9bc4f9bbbf3310fef4.jpg" alt="kedir omer" height="30" width="40" /></a>
 
 </h3>
 
