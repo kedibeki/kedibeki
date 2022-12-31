@@ -1,5 +1,5 @@
 <h1 align="center">👋Shalom To You and 🙏Welcome, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
-<h2 align="center">📊Data Scientist+[🧠AI+💻Machine+Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🤖Robotics+🩺Biomedical+🐍Python+💵Financial] Engineer+[🗓Project+🛒Product+📐Strategy] Manager+☎️Consultant</h2>
+<h2 align="center">📶Data Scientist+[🧠AI>💻Machine>⚛️Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🤖Robotics+🩺Biomedical+🐍Python] Engineer+📈Business Analyst+[🗓Project+🛒Product] Manager+☎️Consultant</h2>
 
 <p align="center">
 <img src="https://media-exp1.licdn.com/dms/image/D4D16AQGTPtgMzHX7Jw/profile-displaybackgroundimage-shrink_350_1400/0/1665827642551?e=1672272000&v=beta&t=AkqfEZ9tsRmwlKVAxXgj098O0fIccg7Ncc4nMelXe3Q" alt=""/>
@@ -14,11 +14,14 @@
 
 <h3>
 <p align="left">
-"👏Thank you for visiting My GitHub Portfolio. I'm so excited because "We (You 🫶 Me) are going to build a better Future: Today!" 
+
+EXPERTISE:
+
+🙏Thank You for Visiting My Page! I'm Excited Because "We (You🫶Me) are Going to Build a Brighter Future: Today!" 
  
-To Excel✈️ in the Technology Era: 📊Data Science (🧠AI, 💻ML & 🔍DL), 🧑‍💻Software Engineering, 💭Cloud Computing, 🛫IoT, 🔐Cyber Security, 💰Blockchain, and 🫀Biomedical Science are the Pillars. 
+To Excel✈️ in The Technology Era: 📊Data Science (🧠AI, 💻ML & ⚛️DL), 🧑‍Software Engineering, 💭Cloud Computing, 🛫IoT, 🔐Cyber Security, 🫀Biomedical Science, and 💰Blockchain are The Pillars. 
  
-Therefore, to master these fields: I have developed📈 and elevated💡 my expertise and skills (Technical and Professional) by innovating real-world aspiring projects 🛠 and enrolling in dozens of specialization courses📚 from prestigious universities and high-tech corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and earned professional and specialty certifications💎. 
+Therefore, To Master These Fields: I have Developed📈 and Elevated💡 My Expertise and Skills (Technical and Professional) by Innovating Real-World Aspiring Projects🛠 and Enrolling in Dozens of Specializations Courses📚 from Prestigious Universities and High-Tech Corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and Earned Professional and Specialty Certifications💎.  
  
 I will post these fields Inevitable Contributions from smallest to largest sectors and businesses! AI, Automation and The Future! I will upload my personal projects, notes (study materials) and personal achievements (Certifications) in all sectors, professions and businesses!" 📝
  
