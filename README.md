@@ -2,7 +2,7 @@
 <h2 align="center">📶Data Scientist+[🧠AI>💻Machine>⚛️Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🤖Robotics+🩺Biomedical+🐍Python] Engineer+📈Business Analyst+[🗓Project+🛒Product] Manager+☎️Consultant</h2>
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/D4E16AQEOlHjeWuSLqA/profile-displaybackgroundimage-shrink_350_1400/0/1672298884465?e=1677715200&v=beta&t=vPEmg0DCDP95BxgxEfJv6io5KJ3v_AITQcO1oJA374k" alt=""/>
+<img src="https://media.licdn.com/dms/image/D4E16AQEMwBnZRzpcVw/profile-displaybackgroundimage-shrink_350_1400/0/1673371584441?e=1678924800&v=beta&t=oXHrx06ttJCZl9dApANXaPQWT7hr2Viqj2srUZvy7gY" alt=""/>
 </p>
 
 <h3 align="center">
