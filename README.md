@@ -2,7 +2,7 @@
 <h2 align="center">📶Data Scientist+[🧠AI>💻Machine>⚛️Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🤖Robotics+🩺Biomedical+🐍Python] Engineer+📈Business Analyst+[🗓Project+🛒Product] Manager+☎️Consultant</h2>
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/D4E16AQEMwBnZRzpcVw/profile-displaybackgroundimage-shrink_350_1400/0/1673371584441?e=1678924800&v=beta&t=oXHrx06ttJCZl9dApANXaPQWT7hr2Viqj2srUZvy7gY" alt=""/>
+<img src="https://media.licdn.com/dms/image/D4E16AQFTmJyXf6thzg/profile-displaybackgroundimage-shrink_350_1400/0/1673606924735?e=1678924800&v=beta&t=DI9F54y9TX8Xy4tmnWoEZYO4XEWwY6wI9SOKCGwwkcI" alt=""/>
 </p>
 
 <h3 align="center">
@@ -19,7 +19,7 @@ EXPERTISE:
 
 🙏Thank You for Visiting My Page! I'm Excited Because "We (You🫶Me) are Going to Build a Brighter Future: Today!" 
  
-To Excel✈️ in The Technology Era: 📊Data Science (🧠AI, 💻ML & ⚛️DL), 🧑‍Software Engineering, 💭Cloud Computing, 🛫IoT, 🔐Cyber Security, 🫀Biomedical Science, and 💰Blockchain are The Pillars. 
+To Exceed✈️ in The Technology Era: 📊Data Science (🧠AI, 💻ML & ⚛️DL), 🧑‍Software Engineering, 💭Cloud Computing, 🛫IoT, 🔐Cyber Security, 🫀Biomedical Science, and 💰Blockchain are The Pillars. 
  
 Therefore, To Master These Fields: I have Developed📈 and Elevated💡 My Expertise and Skills (Technical and Professional) by Innovating Real-World Aspiring Projects🛠 and Enrolling in Dozens of Specializations Courses📚 from Prestigious Universities and High-Tech Corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and Earned Professional and Specialty Certifications💎.  
  
