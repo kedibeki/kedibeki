@@ -2,7 +2,7 @@
 <h2 align="center">📶Data Scientist+[🧠AI>💻Machine>⚛️Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🤖Robotics+🩺Biomedical+🐍Python] Engineer+📈Business Analyst+[🗓Project+🛒Product] Manager+☎️Consultant</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E16AQG_Da6Mxxj9Yg/profile-displaybackgroundimage-shrink_350_1400/0/1675255500567?e=1680739200&v=beta&t=vPbzeDODN4TGC8Iza8v3VJ1alDFo_Zk_xrPk3nyzXsg" alt=""/></a>
+<a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D16AQGjuL_B2sTUuw/profile-displaybackgroundimage-shrink_350_1400/0/1675314498082?e=1680739200&v=beta&t=fJkWl0NSlnbJRAICDrh0Stxk4WY9lO0o932XseqXcb0" alt=""/></a>
 
 <h3 align="center">
 "𝓜𝓮𝓻𝓪𝓴𝓲 (𝓜𝓪𝔂-𝓻𝓪𝓱-𝓴𝓮𝓮) 𝓲𝓼 𝓪 𝓖𝓻𝓮𝓮𝓴 𝓽𝓮𝓻𝓶 𝓽𝓱𝓪𝓽 𝓻𝓮𝓯𝓮𝓻𝓼 𝓽𝓸 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓛𝓸𝓿𝓮, 𝓢𝓸𝓾𝓵, 𝓒𝓻𝓮𝓪𝓽𝓲𝓿𝓲𝓽𝔂, 𝓪𝓷𝓭 𝓟𝓪𝓼𝓼𝓲𝓸𝓷. 
