@@ -1,5 +1,5 @@
 <h1 align="center">👋Shalom To You and 🙏Welcome, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
-<h2 align="center">📶Data Scientist+[🧠AI>💻Machine>⚛️Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+💰Blockchain+🛫IoT+🤖Robotics+🩺Biomedical+🐍Python] Engineer+📈Business Analyst+[🗓Project+🛒Product] Manager+☎️Consultant</h2>
+<h2 align="center">💼Entrepreneur+📶Data Scientist+[🧠AI>💻Machine Learning>⚛️Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+🩺Biomedical+🐍Python] Engineer+📈Business Analyst+[🗓Project+🛒Product] Manager+☎️Consultant</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D16AQGjuL_B2sTUuw/profile-displaybackgroundimage-shrink_350_1400/0/1675314498082?e=1687392000&v=beta&t=lb3SO-7b_6GdHErzsQAI5owpDyD2POBByoSzaa_LsPY" alt=""/></a>
@@ -18,7 +18,7 @@ EXPERTISE:
 
 🙏Thank You for Visiting My Page! I'm Excited Because "We (You🫶Me) are Going to Build a Brighter Future: Today!" 
  
-To Exceed✈️ in The Technology Era: 📊Data Science (🧠AI, 💻ML & ⚛️DL), 🧑‍Software Engineering, 💭Cloud Computing, 🛫IoT, 🔐Cyber Security, 🫀Biomedical Science, and 💰Blockchain are The Pillars. 
+To Exceed✈️ in The Technology Era: 📊Data Science (🧠AI, 💻ML & ⚛️DL), 🧑‍Software Engineering, 💭Cloud Computing, 🔐Cyber Security, 🫀Biomedical Science, and 💰Business Analytics are the Pillars. 
  
 Therefore, To Master These Fields: I have Developed📈 and Elevated💡 My Expertise and Skills (Technical and Professional) by Innovating Real-World Aspiring Projects🛠 and Enrolling in Dozens of Specializations Courses📚 from Prestigious Universities and High-Tech Corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and Earned Professional and Specialty Certifications💎.  
  
