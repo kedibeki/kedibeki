@@ -1,4 +1,4 @@
-<h1 align="center">🙏Shalom To You and Welcome, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
+<h1 align="center">🙏Shalom To You and Welcome, I'm  𝓚𝓮𝓭𝓲𝓻 𝓞𝓶𝓮𝓻</h1>
 <h2 align="center">💻Experienced Data, AI, ML, Software, and Cloud Practitioner | Delivering Cutting-Edge Product Solutions for E-commerce, Finance, and Healthcare | Solving and Transforming Complex Business Challenges with Data and AI🤖</h2>
 
 <p align="center">
