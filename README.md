@@ -1,5 +1,5 @@
-<h1 align="center">👋Shalom To You and 🙏Welcome, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
-<h2 align="center">💼Entrepreneur+📶Data Scientist+[🧠AI>💻Machine Learning>⚛️Deep Learning+👨🏽‍💻Software+🏗DevOps+🔐Cybersecurity+💭Cloud+🩺Biomedical+🐍Python] Engineer+📈Business Analyst+[🗓Project+🛒Product] Manager+☎️Consultant</h2>
+<h1 align="center">🙏Shalom To You and Welcome, I'm  𝓚𝓮𝓭𝓲𝓻🤖 𝓞𝓶𝓮𝓻💻</h1>
+<h2 align="center">💻Experienced Data, AI, ML, Software, and Cloud Practitioner | Delivering Cutting-Edge Product Solutions for E-commerce, Finance, and Healthcare | Solving and Transforming Complex Business Challenges with Data and AI🤖</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E16AQEK9eCit2s9Ow/profile-displaybackgroundimage-shrink_350_1400/0/1693998951601?e=1699488000&v=beta&t=0LoMHz4IQ4DJgYAtAMhUtbxsBXotiViM34H6CowyKic" alt=""/></a>
@@ -18,13 +18,12 @@ EXPERTISE:
 
 🙏Thank You for Visiting My Page! I'm Excited Because "We (You🫶Me) are Going to Build a Brighter Future: Today!" 
  
-To Exceed✈️ in The Technology Era: 📊Data Science (🧠AI, 💻ML & ⚛️DL), 🧑‍Software Engineering, 💭Cloud Computing, 🔐Cyber Security, 🫀Biomedical Science, and 💰Business Analytics are the Pillars. 
+To Excel✈️ in The Technology Era: 📊Data Science (🧠AI, 💻ML & ⚛️DL), 🧑‍Software Engineering, 💭Cloud Computing, 🔐Cyber Security, 🫀Biomedical Science, and 💰Business Analytics are the Pillars. 
  
-Therefore, To Master These Fields: I have Developed📈 and Elevated💡 My Expertise and Skills (Technical and Professional) by Innovating Real-World Aspiring Projects🛠 and Enrolling in Dozens of Specializations Courses📚 from Prestigious Universities and High-Tech Corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and Earned Professional and Specialty Certifications💎.  
+Therefore, To Master These Fields: I have Developed📈 and Elevated💡 My Expertise and Skills (Technical and Professional) by Innovating Real-World Aspiring Projects🛠 and Enrolling in Dozens of specialization courses 📚 from Prestigious Universities and High-Tech Corporations (Google, Microsoft, Amazon, Meta, IBM, Harvard, Stanford, Pennsylvania, Michigan, Duke, Yale, NYU, Washington, California, Johns Hopkins, Maryland, etc), and Earned Professional and Specialty Certifications💎.  
  
-I will post these fields Inevitable Contributions from smallest to largest sectors and businesses! AI, Automation and The Future! I will upload my personal projects, notes (study materials) and personal achievements (Certifications) in all sectors, professions and businesses!" 📝
+I will post these fields Inevitable Contributions from the smallest to the largest sectors and businesses! AI, automation, and The future: I will upload my personal projects, notes (study materials), and personal achievements (Certifications) in all sectors, professions, and businesses!" 📝
  
-I'm also a Teacher, Freelancer, Customer Service Rep., and Social Worker.
                        
       "🔔FOLLOW ME TO GET MY UPDATES INSTANTLY AND VISIT MY LINKEDIN PROFILE and WEBSITE FOR MORE!
                                        THANK YOU, MAZEL TOV!"
