@@ -14,7 +14,7 @@
 <h3>
 <p align="left">
 
-🙏Thank You for Visiting My Page! I'm Excited Because "We (You🫶Me) are Going to Build a Brighter Future: Today!" 
+🙏Thank you for visiting my portfolio! I'm excited because "We (You🫶Me) are going to build a brighter future: today!" 
 
 Data📊 and AI/ML🧠 are the driving forces of the technology era. They transform businesses by enhancing capabilities in Product Management🛒, Software Engineering💻, Cloud Computing💭, Business Analytics💰, Biomedical Science🫀, and Cyber Security🔐.
 
