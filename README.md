@@ -1,5 +1,5 @@
 <h1 align="center">🙏Shalom To You and Welcome, I'm  𝓚𝓮𝓭𝓲𝓻 𝓞𝓶𝓮𝓻</h1>
-<h2 align="center">💻Experienced Data, AI, ML, Software, and Cloud Practitioner | Delivering Cutting-Edge Product Solutions for E-commerce, Finance and Healthcare | Solving and Transforming Complex Business Challenges with Data and AI/ML🤖</h2>
+<h2 align="center">💻Experienced Data, AI, ML, Software and Cloud Practitioner | Delivering Cutting-Edge Product Solutions for E-commerce, Finance and Healthcare | Solving and Transforming Complex Business Challenges with Data and AI/ML🤖</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kediromer/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E16AQEK9eCit2s9Ow/profile-displaybackgroundimage-shrink_350_1400/0/1693998951601?e=1699488000&v=beta&t=0LoMHz4IQ4DJgYAtAMhUtbxsBXotiViM34H6CowyKic" alt=""/></a>
